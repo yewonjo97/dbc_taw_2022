@@ -16,6 +16,6 @@ persist_with: taw2022_default_datagroup
 
 # explore: summary {}
 
-explore: symptom_search_country_daily_tmp {}
+explore: symptom_search_sub_region_2_daily_tmp {}
 
 explore: vaccin_usafacts {}

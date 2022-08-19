@@ -1,5 +1,6 @@
-view: symptom_search_country_daily_tmp {
-  sql_table_name: `dbctaw-team-220816.covid19_symptom_search_tmp.symptom_search_country_daily_tmp`
+view: symptom_search_sub_region_2_daily_tmp
+ {
+  sql_table_name: `dbctaw-team-220816.covid19_symptom_search_tmp.symptom_search_sub_region_2_daily_tmp`
     ;;
 
   dimension: country_region {
